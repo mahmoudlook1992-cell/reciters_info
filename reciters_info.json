@@ -1,0 +1,902 @@
+{
+  "shatri": {
+    "birth": "ولد عام 1970 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة، المملكة العربية السعودية",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "أربعة أبناء",
+    "education": "إجازة في القرآن الكريم برواية حفص عن عاصم"
+  },
+  "hawashi": {
+    "birth": "1955 م - توفي 2022 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "خميس مشيط (سابقاً)",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "غير متوفر إعلامياً",
+    "education": "إمام وخطيب الجامع الكبير بخميس مشيط لأكثر من 40 عاماً"
+  },
+  "maher": {
+    "birth": "7 يناير 1969 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "4 أبناء (بنتان وولدان)",
+    "education": "دكتوراه في الفقه، إمام وخطيب المسجد الحرام"
+  },
+  "basit": {
+    "birth": "1927 م - توفي 1988 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة (سابقاً)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "طارق، ياسر، هشام",
+    "education": "أول نقيب لقراء مصر، لُقب بالحنجرة الذهبية"
+  },
+  "minsh": {
+    "birth": "1920 م - توفي 1969 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة (سابقاً)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر إعلامياً",
+    "education": "أحد أعلام التلاوة، لُقب بالصوت الباكي"
+  },
+  "afs": {
+    "birth": "5 سبتمبر 1976 م",
+    "country": "الكويت 🇰🇼",
+    "residence": "الكويت - المسجد الكبير",
+    "nationality": "كويتي",
+    "religion": "مسلم",
+    "children": "نورا، الجازي، أوراد، راشد، محمد",
+    "education": "الجامعة الإسلامية بالمدينة المنورة (القراءات العشر)"
+  },
+  "yasser": {
+    "birth": "6 أغسطس 1980 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة / الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "دكتوراه في الفقه المقارن، إمام وخطيب المسجد الحرام"
+  },
+  "ajm": {
+    "birth": "24 فبراير 1968 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الخبر",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "عبد الله، عمر، فاطمة، مريم، موضي، عبد الرحمن",
+    "education": "دكتوراه في التفسير، إمام وخطيب"
+  },
+  "sds": {
+    "birth": "10 فبراير 1960 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "دكتوراه في الشريعة، الرئيس العام لشؤون المسجد الحرام والمسجد النبوي"
+  },
+  "s_gmd": {
+    "birth": "19 مايو 1967 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الدمام",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "بكالوريوس في الشريعة، إمام مشارك في صلاة التراويح بالحرم النبوي سابقاً"
+  },
+  "shur": {
+    "birth": "19 يناير 1966 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "دكتوراه في الفقه، إمام وخطيب المسجد الحرام سابقاً"
+  },
+  "husary": {
+    "birth": "1917 م - توفي 1980 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة (سابقاً)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "علي، ياسمين، إفراج",
+    "education": "أول من سجل المصحف المرتل، شيخ عموم المقارئ المصرية"
+  },
+  "fares": {
+    "birth": "11 أبريل 1980 م",
+    "country": "اليمن 🇾🇪",
+    "residence": "الرياض، السعودية",
+    "nationality": "يمني",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "بكالوريوس في الدعوة، قارئ بقناة المجد للقرآن الكريم"
+  },
+  "abkr": {
+    "birth": "1975 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "أبو ظبي، الإمارات",
+    "nationality": "يمني / مقيم بالسعودية والإمارات",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام جامع الشيخ زايد الكبير بأبوظبي"
+  },
+  "jaleel": {
+    "birth": "1963 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب جامع الملك خالد بالرياض"
+  },
+  "jhn": {
+    "birth": "13 يناير 1976 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "دكتوراه في التفسير، إمام وخطيب المسجد الحرام"
+  },
+  "hthfi": {
+    "birth": "22 مايو 1946 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "المدينة المنورة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "أحمد (إمام الحرم النبوي أيضاً) وآخرون",
+    "education": "دكتوراه من الأزهر، إمام وخطيب المسجد النبوي"
+  },
+  "ayyub": {
+    "birth": "1952 م - توفي 2016 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "المدينة المنورة (سابقاً)",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "دكتوراه في التفسير، إمام الحرم النبوي سابقاً"
+  },
+  "qtm": {
+    "birth": "1980 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "بكالوريوس دراسات إسلامية، إمام جامع عبد الله بن ناصر بالرياض"
+  },
+  "wdod": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "غير متوفر إعلامياً",
+    "education": "إمام مسجد الأميرة شهيدة بمكة"
+  },
+  "bu_khatr": {
+    "birth": "ولد عام 1971 م",
+    "country": "الإمارات 🇦🇪",
+    "residence": "الشارقة",
+    "nationality": "إماراتي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "رجل أعمال وقارئ وخطيب في الإمارات"
+  },
+  "naina": {
+    "birth": "15 مارس 1954 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "بكالوريوس طب، لُقب بطبيب القراء"
+  },
+  "jbrl": {
+    "birth": "1964 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "ليسانس شريعة وقانون من جامعة الأزهر، إمام مسجد عمرو بن العاص سابقاً"
+  },
+  "banna": {
+    "birth": "1926 م - توفي 1985 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة (سابقاً)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "أحمد محمود علي البنا وآخرون",
+    "education": "أحد أبرز قراء الإذاعة المصرية"
+  },
+  "bsfr": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "أستاذ بقسم الشريعة والدراسات الإسلامية بجامعة الملك عبد العزيز"
+  },
+  "hani": {
+    "birth": "1974 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب جامع العناني بجدة"
+  },
+  "nabil": {
+    "birth": "1977 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام جامع التقوى بجدة"
+  },
+  "shahat": {
+    "birth": "1984 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "قارئ بالإذاعة والتليفزيون المصري، ابن الشيخ الشحات محمد أنور"
+  },
+  "mustafa": {
+    "birth": "1905 م - توفي 1978 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة (سابقاً)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر إعلامياً",
+    "education": "من كبار قراء الرعيل الأول، قارئ الملوك والرؤساء"
+  },
+  "tblawi": {
+    "birth": "1934 م - توفي 2020 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة (سابقاً)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "نقيب القراء المصريين سابقاً"
+  },
+  "omar_qaz": {
+    "birth": "4 أغسطس 1974 م",
+    "country": "المغرب 🇲🇦",
+    "residence": "الدار البيضاء",
+    "nationality": "مغربي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام مسجد الحسن الثاني بالدار البيضاء"
+  },
+  "raad": {
+    "birth": "16 أبريل 1991 م",
+    "country": "العراق 🇮🇶",
+    "residence": "كردستان العراق / دبي",
+    "nationality": "عراقي",
+    "religion": "مسلم",
+    "children": "متزوج",
+    "education": "قارئ وإمام في مساجد كردستان والإمارات"
+  },
+  "wadih": {
+    "birth": "غير متوفر بدقة",
+    "country": "اليمن 🇾🇪",
+    "residence": "السعودية",
+    "nationality": "يمني",
+    "religion": "مسلم",
+    "children": "متزوج",
+    "education": "بكالوريوس دراسات إسلامية"
+  },
+  "balila": {
+    "birth": "1975 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "دكتوراه في الفقه، إمام وخطيب المسجد الحرام"
+  },
+  "h_saleh": {
+    "birth": "1970 م",
+    "country": "مصر 🇪🇬",
+    "residence": "أمريكا (حالياً)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "خريج معهد القراءات بالأزهر، إمام بالمركز الإسلامي בניويورك"
+  },
+  "islam": {
+    "birth": "25 سبتمبر 1998 م",
+    "country": "مصر 🇪🇬",
+    "residence": "المنوفية / القاهرة",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متزوج",
+    "education": "كلية الطب بجامعة المنوفية"
+  },
+  "hazza": {
+    "birth": "1995 م",
+    "country": "عُمان 🇴🇲",
+    "residence": "مسقط",
+    "nationality": "عُماني",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "طالب بجامعة السلطان قابوس، قارئ للقرآن"
+  },
+  "aloosi": {
+    "birth": "1981 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الخبر",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام جامع الإخلاص بالخبر"
+  },
+  "a_kamel": {
+    "birth": "1985 م - توفي 2023 م",
+    "country": "مصر 🇪🇬",
+    "residence": "أمريكا (توفي بها)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "خريج كلية دار العلوم، قارئ وداعية كفيف البصر"
+  },
+  "lhdan": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "قاضٍ وإمام جامع الناصر بالرياض"
+  },
+  "s_bud": {
+    "birth": "1970 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "المدينة المنورة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب المسجد النبوي، وقاضي محكمة الاستئناف"
+  },
+  "a_jaber": {
+    "birth": "1953 م - توفي 2005 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة (سابقاً)",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام الحرم المكي الشريف سابقاً"
+  },
+  "tnjy": {
+    "birth": "غير متوفر بدقة",
+    "country": "الإمارات 🇦🇪",
+    "residence": "الشارقة",
+    "nationality": "إماراتي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "قارئ ومهندس إماراتي، ومدير إذاعة القرآن الكريم بالشارقة"
+  },
+  "qasm": {
+    "birth": "1967 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "المدينة المنورة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب المسجد النبوي الشريف"
+  },
+  "qht": {
+    "birth": "1953 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الدمام",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام مسجد عبد الرزاق قنبر بالدمام"
+  },
+  "khayat": {
+    "birth": "1908 م - توفي 1995 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة (سابقاً)",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب المسجد الحرام قديماً"
+  },
+  "thubti": {
+    "birth": "1960 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "المدينة المنورة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب المسجد النبوي"
+  },
+  "taleb": {
+    "birth": "1974 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب المسجد الحرام سابقاً وقاضي"
+  },
+  "yahya": {
+    "birth": "1976 م",
+    "country": "سوريا 🇸🇾",
+    "residence": "الأردن / كندا",
+    "nationality": "سوري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "منشد وقارئ للقرآن"
+  },
+  "zaki": {
+    "birth": "1925 م - توفي 2004 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة (سابقاً)",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "غير متوفر إعلامياً",
+    "education": "أحد أبرز قراء الحجاز قديماً برواية حفص"
+  },
+  "shirzad": {
+    "birth": "1968 م",
+    "country": "العراق 🇮🇶",
+    "residence": "أربيل",
+    "nationality": "عراقي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب جامع جليل الخياط بأربيل"
+  },
+  "tareq": {
+    "birth": "غير متوفر بدقة",
+    "country": "ليبيا 🇱🇾",
+    "residence": "ليبيا",
+    "nationality": "ليبي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ للقرآن برواية قالون عن نافع"
+  },
+  "a_bari": {
+    "birth": "غير متوفر بدقة",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ إذاعي مصري"
+  },
+  "soufi": {
+    "birth": "1964 م",
+    "country": "الصومال 🇸🇴 / قطر 🇶🇦",
+    "residence": "الدوحة",
+    "nationality": "صومالي قطري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "متقن للقراءات العشر، ومفتي بدولة قطر"
+  },
+  "a_ahmed": {
+    "birth": "1967 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "القصيم",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "أستاذ بقسم علم النفس بجامعة القصيم"
+  },
+  "mtrod": {
+    "birth": "1963 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "قارئ وإمام سعودي معروف بتلاواته التلفزيونية"
+  },
+  "obk": {
+    "birth": "1953 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "مستشار بالديوان الملكي السعودي سابقاً"
+  },
+  "kanakeri": {
+    "birth": "غير متوفر بدقة",
+    "country": "سوريا 🇸🇾",
+    "residence": "السعودية",
+    "nationality": "سوري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "إمام وقارئ للقرآن"
+  },
+  "suwaisi": {
+    "birth": "1926 م - توفي 2002 م",
+    "country": "مصر 🇪🇬",
+    "residence": "القاهرة (سابقاً)",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "من كبار قراء الرعيل الأول بمصر"
+  },
+  "emad": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "المدينة المنورة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "دكتور وأستاذ بالجامعة الإسلامية بالمدينة"
+  },
+  "zamil": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام مسجد بالرياض"
+  },
+  "m_krm": {
+    "birth": "1968 م",
+    "country": "السودان 🇸🇩",
+    "residence": "السعودية",
+    "nationality": "سوداني",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "أستاذ بجامعة الملك عبد العزيز، وإمام مسجد"
+  },
+  "m_khan": {
+    "birth": "غير متوفر بدقة",
+    "country": "الهند 🇮🇳",
+    "residence": "الهند",
+    "nationality": "هندي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "مقرئ من شبه القارة الهندية"
+  },
+  "shemi": {
+    "birth": "غير متوفر بدقة",
+    "country": "مصر 🇪🇬",
+    "residence": "مصر",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ للقرآن بالقراءات المتعددة"
+  },
+  "muftah": {
+    "birth": "1973 م",
+    "country": "ليبيا 🇱🇾",
+    "residence": "كندا / أمريكا",
+    "nationality": "ليبي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "طبيب وقارئ ومجاز بالقراءات العشر"
+  },
+  "musa": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "مقرئ من الرعيل السابق بمكة"
+  },
+  "waleed": {
+    "birth": "غير متوفر بدقة",
+    "country": "ليبيا 🇱🇾",
+    "residence": "ليبيا",
+    "nationality": "ليبي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ برواية قالون"
+  },
+  "y_salama": {
+    "birth": "غير متوفر بدقة",
+    "country": "مصر 🇪🇬",
+    "residence": "مصر",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ وإمام مصري"
+  },
+  "trabulsi": {
+    "birth": "1955 م",
+    "country": "الكويت 🇰🇼",
+    "residence": "الكويت",
+    "nationality": "كويتي (من أصل سوري/لبناني)",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "قارئ للقرآن ورياضي كويتي سابق"
+  },
+  "akhdar": {
+    "birth": "1945 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "المدينة المنورة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام المسجد النبوي سابقاً وشيخ قراء المدينة المنورة"
+  },
+  "jibreen": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام جامع الأميرة مها بالرياض"
+  },
+  "akram": {
+    "birth": "غير متوفر بدقة",
+    "country": "مصر 🇪🇬",
+    "residence": "مصر",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ متخصص في علوم القرآن"
+  },
+  "jamal": {
+    "birth": "غير متوفر بدقة",
+    "country": "الأردن 🇯🇴",
+    "residence": "أمريكا",
+    "nationality": "أردني",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وقارئ في مساجد الولايات المتحدة"
+  },
+  "k_kafi": {
+    "birth": "1971 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب جامع عائشة بجدة"
+  },
+  "mohanna": {
+    "birth": "1976 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "المدينة المنورة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام الحرم النبوي الشريف"
+  },
+  "sahl": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام جامع الأمير سلطان بجدة"
+  },
+  "saber": {
+    "birth": "1962 م",
+    "country": "مصر 🇪🇬",
+    "residence": "السعودية",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "مجاز في القراءات ومدرس للقرآن الكريم"
+  },
+  "juhany": {
+    "birth": "1976 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "مكة المكرمة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب المسجد الحرام"
+  },
+  "harthi": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام مسجد وقارئ معتمد"
+  },
+  "barrak": {
+    "birth": "1980 م",
+    "country": "الكويت 🇰🇼",
+    "residence": "الكويت / مكة",
+    "nationality": "كويتي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "باحث شرعي وقارئ وإمام مسجد"
+  },
+  "noreen": {
+    "birth": "1982 م - توفي 2020 م",
+    "country": "السودان 🇸🇩",
+    "residence": "الخرطوم (توفي بها)",
+    "nationality": "سوداني",
+    "religion": "مسلم",
+    "children": "لديه أبناء",
+    "education": "أشهر قراء السودان برواية الدوري عن أبي عمرو"
+  },
+  "nfis": {
+    "birth": "1991 م",
+    "country": "الكويت 🇰🇼",
+    "residence": "الكويت",
+    "nationality": "كويتي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام مسجد الدولة الكبير، ومنشد إسلامي"
+  },
+  "salmi": {
+    "birth": "1983 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "داعية وقارئ وخطيب بجامع في جدة"
+  },
+  "dokhin": {
+    "birth": "1994 م",
+    "country": "اليمن 🇾🇪",
+    "residence": "السعودية",
+    "nationality": "يمني",
+    "religion": "مسلم",
+    "children": "متزوج",
+    "education": "مهندس حاسب آلي وإمام مسجد"
+  },
+  "turki": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام جامع بالرياض"
+  },
+  "mutairi": {
+    "birth": "غير متوفر بدقة",
+    "country": "كويتي 🇰🇼",
+    "residence": "الكويت -  مدينة جابر الأحمد",
+    "nationality": "كويتي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "إمام مسجد المغيرة بن شعبة بمدينة جابر الأحمد."
+  },
+  "hatem": {
+    "birth": " عام 1377 هـ - 1957 م",
+    "country": "مصر 🇪🇬",
+    "residence": "البحيرة - كفر الدوار",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ ومجاز في القراءات"
+  },
+  "salman": {
+    "birth": "1980 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام جامع ومقرئ للقرآن"
+  },
+  "taher": {
+    "birth": "1968 م",
+    "country": "العراق 🇮🇶",
+    "residence": "كردستان العراق",
+    "nationality": "عراقي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "قارئ وإمام في مساجد أربيل"
+  },
+  "zahrani": {
+    "birth": "1980 م",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وخطيب وقارئ معتمد"
+  },
+  "mousa": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "إمام وقارئ ذو صوت هادئ ومريح"
+  },
+  "arkani": {
+    "birth": "1983 م",
+    "country": "ميانمار 🇲🇲 (بورما)",
+    "residence": "السعودية / الإمارات",
+    "nationality": "أركاني",
+    "religion": "مسلم",
+    "children": "متزوج ولديه أبناء",
+    "education": "قارئ وإمام جامع خادم الحرمين الشريفين بجدة سابقاً"
+  },
+  "alam_shah": {
+    "birth": "غير متوفر بدقة",
+    "country": "باكستان 🇵🇰",
+    "residence": "السعودية",
+    "nationality": "باكستاني",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "مقرئ وأستاذ للقرآن بالمملكة"
+  },
+  "m_rifai": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "جدة",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ ومجاز للقرآن"
+  },
+  "lahoni": {
+    "birth": "غير متوفر بدقة",
+    "country": "مصر 🇪🇬",
+    "residence": "مصر",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ ومدرس لعلوم القرآن الكريم"
+  },
+  "mazroyee": {
+    "birth": "غير متوفر بدقة",
+    "country": "الكويت 🇰🇼",
+    "residence": "الكويت",
+    "nationality": "كويتي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "مقرئ ومحقق بقراءات القرآن الكريم"
+  },
+  "shoaie": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "الرياض",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "إمام مسجد بالرياض"
+  },
+  "saud": {
+    "birth": "غير متوفر بدقة",
+    "country": "السعودية 🇸🇦",
+    "residence": "السعودية",
+    "nationality": "سعودي",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "طالب علم وقارئ صاعد"
+  },
+  "saber_ahmed": {
+    "birth": "غير متوفر بدقة",
+    "country": "مصر 🇪🇬",
+    "residence": "مصر",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ إذاعي ومقرئ للقرآن"
+  },
+  "s_ramadan": {
+    "birth": "غير متوفر بدقة",
+    "country": "مصر 🇪🇬",
+    "residence": "مصر",
+    "nationality": "مصري",
+    "religion": "مسلم",
+    "children": "غير متوفر",
+    "education": "قارئ للقرآن الكريم"
+  }
+}
