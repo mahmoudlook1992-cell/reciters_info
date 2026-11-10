@@ -1,94 +1,21 @@
 {
-  "shorts": [
+  "shorts_categories": [
     {
       "id": 1,
       "title": "طريق التوبة",
       "subtitle": "باب الله مفتوح دائماً.. عد إليه مهما عظمت ذنوبك فإنه يغفر الذنوب جميعاً 🤍",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/1.mp4"
+      "videos": [
+        {"id": "QT2kFgazVrg", "title": "شروط التوبة التي لا تصح بدونها"},
+        {"id": "8_WIbsYYJmg", "title": "عنوان المقطع الثاني"}
+      ]
     },
     {
       "id": 2,
       "title": "اطمئن لرزقك",
       "subtitle": "ما كُتب لك لن يأخذه غيرك، وما قُسم لك سيأتيك في وقته الأجمل 🌿",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/2.mp4"
-    },
-    {
-      "id": 3,
-      "title": "أرحنا بالصلاة",
-      "subtitle": "في السجود تسقط كل هموم الدنيا، ويرتفع قلبك إلى سكينة السماء 🕌",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/3.mp4"
-    },
-    {
-      "id": 4,
-      "title": "فرج قريب",
-      "subtitle": "لا تدري لعل الله يحدث بعد ذلك أمراً يجبر قلبك وينسيك كل ألم ✨",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/4.mp4"
-    },
-    {
-      "id": 5,
-      "title": "دواء القلوب",
-      "subtitle": "بالقرآن والذكر تحيا الأرواح المتعبة وتُشفى الصدور من كل ضيق 📖",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/5.mp4"
-    },
-    {
-      "id": 6,
-      "title": "قيد الشهوة",
-      "subtitle": "حرر روحك من لذة عابرة، فما عند الله من النعيم والرضا خير وأبقى 🛡️",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/6.mp4"
-    },
-    {
-      "id": 7,
-      "title": "حلاوة الإيمان",
-      "subtitle": "حين تترك ما تهوى لأجل ما يرضي الله، يملأ قلبك نوراً لا ينطفئ 🌟",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/7.mp4"
-    },
-    {
-      "id": 8,
-      "title": "نور اليقين",
-      "subtitle": "من توكل على الله كفاه، ومن استضاء بنوره لم يضل طريقه أبداً 🕯️",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/8.mp4"
-    },
-    {
-      "id": 9,
-      "title": "مع العسر",
-      "subtitle": "وعدٌ رباني لا يتخلف: إن مع كل ضيقٍ مخرجاً، ومع كل عسرٍ يسراً 🌅",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/9.mp4"
-    },
-    {
-      "id": 10,
-      "title": "السكينة الكبرى",
-      "subtitle": "هدوء الروح يبدأ حين تسلّم أمرك كله لله وترضى بحكمته وتدبيره 🕊️",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/10.mp4"
-    },
-    {
-      "id": 11,
-      "title": "طهر الروح",
-      "subtitle": "نقِّ قلبك من التعلق بالدنيا، ليشرق فيه نور القرب من الله 💧",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/11.mp4"
-    },
-    {
-      "id": 12,
-      "title": "جنة الدنيا",
-      "subtitle": "في الدنيا جنة من لم يدخلها لم يدخل جنة الآخرة: إنها جنة الأنس بالله 🌺",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/12.mp4"
-    },
-    {
-      "id": 13,
-      "title": "قرب الإجابة",
-      "subtitle": "ادعُ ربك بيقين، فكم من دعوةٍ رفعتها في الخفاء غيّرت أقدارك للأجمل 🤲",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/13.mp4"
-    },
-    {
-      "id": 14,
-      "title": "استغفر لتسعد",
-      "subtitle": "الاستغفار يفتح الأقفال، ويشرح البال، ويبدل الحال إلى أحسن حال 📿",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/14.mp4"
-    },
-    {
-      "id": 15,
-      "title": "ولا تحزن",
-      "subtitle": "إن الله معنا.. يسمع نجواك، ويرى مكانك، وسيجبر كسرك عما قريب 🌈",
-      "video_url": "https://raw.githubusercontent.com/mahmoudlook1992-cell/reciters_info/main/shorts/15.mp4"
+      "videos": [
+        {"id": "aESR9uUobrQ", "title": "عنوان مقطع الرزق"}
+      ]
     }
   ]
 }
