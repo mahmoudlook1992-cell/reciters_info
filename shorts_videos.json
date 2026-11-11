@@ -1,9 +1,45 @@
 {
   "channels": [
     {
-      "name": "الشيخ أمجد سمير",
-      "url": "https://www.youtube.com/@amgad_samir/shorts"
-    },
+    "name": "الشيخ أمجد سمير (مصر)",
+    "url": "https://www.youtube.com/@amgad_samir/shorts"
+  },
+  {
+    "name": "الشيخ الدكتور محمد حسان (مصر)",
+    "url": "https://www.youtube.com/channel/UCr4Kz8-cozLWzGYa1WICePw/shorts"
+  },
+  {
+    "name": "الشيخ مصطفى العدوي (مصر)",
+    "url": "https://www.youtube.com/user/ftawamostafaaladwy/shorts"
+  },
+  {
+    "name": "الشيخ الدكتور محمود المصري (مصر)",
+    "url": "https://www.youtube.com/c/DrMahmoudElmasry/shorts"
+  },
+  {
+    "name": "الشيخ عبد الرزاق البدر (السعودية)",
+    "url": "https://www.youtube.com/@dorosalbadr/shorts"
+  },
+  {
+    "name": "الشيخ محمد صالح المنجد (السعودية)",
+    "url": "https://www.youtube.com/@almunajjid/shorts"
+  },
+  {
+    "name": "الشيخ الدكتور عثمان الخميس (الكويت)",
+    "url": "https://www.youtube.com/@othmanalkamees/shorts"
+  },
+  {
+    "name": "قناة المجد العلمية",
+    "url": "https://www.youtube.com/@elmiyachannel/shorts"
+  },
+  {
+    "name": "الشيخ عامر بهجت (السعودية)",
+    "url": "https://www.youtube.com/@amerbahjat/shorts"
+  },
+  {
+    "name": "الشيخ صالح المغامسي (السعودية)",
+    "url": "https://www.youtube.com/user/alrasekhooncom/shorts"
+  }
     {
       "name": "د. أحمد العربي",
       "url": "https://www.youtube.com/@Drahmedelarabyofficial/shorts"
